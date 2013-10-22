@@ -1,0 +1,2 @@
+[testservers]
+localhost want_b=false want_c=false

@@ -1,0 +1,6 @@
+---
+# playbook for all
+- hosts: all
+  gather_facts: false
+  roles:
+    - a
