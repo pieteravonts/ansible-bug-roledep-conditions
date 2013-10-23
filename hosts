@@ -1,2 +1,2 @@
 [testservers]
-localhost want_b=false want_c=false
+localhost want_b=false want_c=true
