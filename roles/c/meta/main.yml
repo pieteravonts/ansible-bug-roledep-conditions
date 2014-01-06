@@ -1,0 +1,4 @@
+---
+dependencies:
+  - role: d
+    when: want_c
